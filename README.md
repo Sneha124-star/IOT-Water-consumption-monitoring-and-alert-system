@@ -1,1 +1,1 @@
-# IOT-Water-consumption-monitoring-and-alert-system
+# Water-monitoring-and-alert-system
